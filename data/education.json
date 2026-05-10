@@ -1,13 +1,23 @@
 [
   {
     "degree": "M.Sc Engg. in EEE",
-    "institution": "RUET",
+    "institution": "Rajshahi University of Engineering & Technology (RUET)",
     "year": "2025 - Ongoing"
   },
 
   {
     "degree": "B.Sc Engg. in EEE",
-    "institution": "RUET",
+    "institution": "Rajshahi University of Engineering & Technology (RUET)",
     "year": "2025"
+  },
+   {
+    "degree": "Higher Secondary School Certificate (HSC)",
+    "institution": "New Govt. Degree College, Rajshahi",
+    "year": "2019"
+  },
+   {
+    "degree": "Secondary School Certificate (SSC)",
+    "institution": "Rajshahi Collegiate School",
+    "year": "2017"
   }
 ]
