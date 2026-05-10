@@ -504,3 +504,14 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <App />
   </React.StrictMode>,
 )
+
+npm run dev
+
+npm run build
+
+git init
+git add .
+git commit -m "Portfolio Website"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/mdziadulkarim.github.io.git
+git push -u origin main
