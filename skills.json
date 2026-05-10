@@ -1,0 +1,7 @@
+{
+  "Programming": ["Python", "C/C++"],
+
+  "Simulation": ["MATLAB", "CST Studio Suite"],
+
+  "Embedded": ["Arduino", "ESP32", "PLC"]
+}
